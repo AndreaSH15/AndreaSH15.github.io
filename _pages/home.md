@@ -29,17 +29,17 @@ feature_row2:
     btn_label: "Whatever you want your button to say"
     
 feature_row3:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Image Analysis Project"
-    excerpt: "Enter a relatively short description here"
+  - assets/Images/Progres images.PNG # no quotes this time
+    alt: "Publications"
+    excerpt: "Find all my publications here"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
 
 feature_row4:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "ggplot Project"
-    excerpt: "Enter a relatively short description here"
+  - assets/Images/Progres images.PNG # no quotes this time
+    alt: "Progress reports"
+    excerpt: "Progress reports for my PhD committee"
     url: "/gglplot_project/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say" 
