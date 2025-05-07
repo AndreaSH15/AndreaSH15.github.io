@@ -13,17 +13,17 @@ author_profile: true
 classes: wide
    
 feature_row1:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Resources"
-    excerpt: "Enter a relatively short description here"
+  - image_path: assets/Images/20250329_135352.jpg # no quotes this time
+    alt: "Cool Colorado Pictures"
+    excerpt: "Beautiful Colorado Landscape"
     url: "/resources/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
     
 feature_row2:
-  - image_path: path_to_your_image.png # no quotes this time
-    alt: "Lectures"
-    excerpt: "Enter a relatively short description here"
+  - image_path: assets/Images/20250320_125007.jpg # no quotes this time
+    alt: "Science time"
+    excerpt: "Time to work"
     url: "/lectures/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say"
