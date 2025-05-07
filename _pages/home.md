@@ -29,7 +29,7 @@ feature_row2:
     btn_label: "Whatever you want your button to say"
     
 feature_row3:
-  - assets/Images/Progres images.PNG # no quotes this time
+  - Paste path here # no quotes this time
     alt: "Publications"
     excerpt: "Find all my publications here"
     url: "/image_analysis_project/" # note that these can also be full urls that take people to other sites
