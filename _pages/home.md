@@ -24,14 +24,14 @@ feature_row2:
   - image_path: assets/Images/20250320_125007.jpg # no quotes this time
     alt: "Science time"
     excerpt: "Time to work"
-    url: "/publications-awards/" # note that these can also be full urls that take people to other sites
+    url: "/lab-protocols/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Science time"
     
 feature_row3:
   - image_path: assets/Images/FB_IMG_1717797197163.jpg # no quotes this time
     alt: "Publications and awards"
-    excerpt: "Find all my publications here"
+    excerpt: "Find all my publications and awards here"
     url: "/publications-awards/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "See more"
