@@ -47,10 +47,19 @@ feature_row4:
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
 
-## Explore More
+# Colorado Pictures
 
-- [Colorado Pictures](/colorado-pictures/)
-- [Lab Protocols](/lab-protocols/)
-- [Publications and Awards](/publications-awards/)
-- [Scientific Presentations](/scientific-presentations/)
+{% include feature_row id="feature_row1" type="left" %}
+
+# Lab Protocols
+
+{% include feature_row id="feature_row2" type="left" %}
+
+# Publications and Awards
+
+{% include feature_row id="feature_row3" type="left" %}
+
+# Scientific Presentations
+
+{% include feature_row id="feature_row4" type="left" %}
 
