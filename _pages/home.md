@@ -16,7 +16,7 @@ feature_row1:
   - image_path: assets/Images/20250329_135352.jpg # no quotes this time
     alt: "Cool Colorado Pictures"
     excerpt: "Colorado, beauty in every season"
-    url: "/Pictures/" # note that these can also be full urls that take people to other sites
+    url: "/Colorado-pictures/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Click here to see more pictures"
     
@@ -24,7 +24,7 @@ feature_row2:
   - image_path: assets/Images/20250320_125007.jpg # no quotes this time
     alt: "Science time"
     excerpt: "Time to work"
-    url: "/Lab memories/" # note that these can also be full urls that take people to other sites
+    url: "/publications-awards/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Science time"
     
@@ -32,7 +32,7 @@ feature_row3:
   - image_path: assets/Images/FB_IMG_1717797197163.jpg # no quotes this time
     alt: "Publications and awards"
     excerpt: "Find all my publications here"
-    url: "/Publications and awards/" # note that these can also be full urls that take people to other sites
+    url: "/publications-awards/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "See more"
 
@@ -40,7 +40,7 @@ feature_row4:
   - image_path: assets/Images/20220805_082745_mfnr.jpg # no quotes this time
     alt: "Scientific presentations"
     excerpt: "Scientific presentations"
-    url: "Posters and presentations" # note that these can also be full urls that take people to other sites
+    url: "/scientific-presentations/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
     btn_label: "Whatever you want your button to say" 
 ---
