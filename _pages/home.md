@@ -42,7 +42,7 @@ feature_row4:
     excerpt: "Scientific presentations"
     url: "/scientific-presentations/" # note that these can also be full urls that take people to other sites
     btn_class: "btn--inverse" # feel free to change the button style!
-    btn_label: "Whatever you want your button to say" 
+    btn_label: "Scientific presentations" 
 ---
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
