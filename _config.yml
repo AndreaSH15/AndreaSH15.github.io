@@ -305,7 +305,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: #true
+      share: true
+      header:
+        nav: main
       
 # HTML Compression
 # - https://jch.penibelst.de/
