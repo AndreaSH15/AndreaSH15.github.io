@@ -11,7 +11,8 @@ title: "  "
 tagline: "  "   
 author_profile: true
 classes: wide
-   
+
+feature_row:   
 feature_row1:
   - image_path: assets/Images/20250329_135352.jpg # no quotes this time
     alt: "Cool Colorado Pictures"
