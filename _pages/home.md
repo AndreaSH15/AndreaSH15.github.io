@@ -47,6 +47,8 @@ feature_row4:
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
 
+{% include feature_row %}
+
 # Colorado Pictures
 
 {% include feature_row id="feature_row1" type="left" %}
