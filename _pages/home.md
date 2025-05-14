@@ -13,7 +13,6 @@ author_profile: true
 classes: wide
 
 feature_row:   
-feature_row1:
   - image_path: assets/Images/20250329_135352.jpg # no quotes this time
     alt: "Cool Colorado Pictures"
     excerpt: "Colorado, beauty in every season"
@@ -48,21 +47,18 @@ feature_row4:
 
 Portfolio of materials from [CSU CM515](https://github.com/Colorado-State-University-CMB/CM515-course-2025/tree/main)! 
 
-{% include feature_row %}
-
 # Colorado Pictures
-
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row" %}
 
 # Lab Protocols
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" %}
 
 # Publications and Awards
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row3" %}
 
 # Scientific Presentations
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4" %}
 
