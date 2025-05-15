@@ -21,5 +21,13 @@ This is one of my favorite pictures taken in fall. The colors were vibrant and t
 
 ![Winter_time](/assets/Images/Colorado/20250118_121228.jpg)
 
-This was on one of the coldest days of the season (-20°C/-4°F)
+One of the coldest days of the season (-20°C/-4°F)
+
+![Spring_baby](/assets/Images/Colorado/20250331_182509.jpg)
+
+Spring has many colors, but allergies are the payback
+
+![Leaving_CO](/assets/Images/Colorado/20250318_074929.jpg)
+
+Skk is cheaper in WY...LOL
 
