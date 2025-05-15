@@ -4,7 +4,7 @@ permalink: /Colorado-pictures/ # for example, for the resources page you would p
 hidden: false
 header:
   overlay_image: assets/Images/Colorado/20250510_145554.jpg
-title: "Colorado pictures"
+title: "Seasons in Colorado"
 tagline: "Scenic views and personal memories"   
 author_profile: false # you can change this to true if you want this on the side again!
 read_time: true # this estimates how long it will take someone to read this page
