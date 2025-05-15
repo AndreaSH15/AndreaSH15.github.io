@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /lab-protocols/ # for example, for the resources page you would put resources
 hidden: false
 header:
-  overlay_image: /assets/path/to/image.png
+  overlay_image: /assets/Images/3167660996_4d874383a9_c.jpg
 title: "Lab Protocols"
 tagline: "Standard procedures"   
 author_profile: false # you can change this to true if you want this on the side again!
@@ -14,3 +14,6 @@ sidebar:
   nav: "Protocols_nav" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 
 ---
+
+##Handling amoebas
+[Handling FLA](assets/Images/Amoeba protocol.pdf)
