@@ -3,7 +3,7 @@ layout: single # I've mostly used the most basic layout, single, and modified it
 permalink: /Colorado-pictures/ # for example, for the resources page you would put resources
 hidden: false
 header:
-  overlay_image: /assets/path/to/image.png
+  overlay_image: assets/Images/Colorado/20250510_145554.jpg
 title: "Colorado pictures"
 tagline: "Scenic views and personal memories"   
 author_profile: false # you can change this to true if you want this on the side again!
@@ -13,3 +13,11 @@ classes: wide # formatting
 sidebar:
   nav: "Colorado_nav" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 ---
+##Winter
+[Winter](assets/Images/Colorado/20250118_121228.jpg)
+###Spring
+
+###Summer
+
+##Fall
+[Fall](assets/Images/Colorado/20241026_123726.jpg)
