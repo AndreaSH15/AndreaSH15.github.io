@@ -13,11 +13,13 @@ classes: wide # formatting
 sidebar:
   nav: "Colorado_nav" # I chose to use an additional sidebar to navigate different parts of this page instead of the author profile. If you use this you will have to add a new section to your navigation.yml file, or you can comment this section out.
 ---
-##Winter
-[Winter](assets/Images/Colorado/20250118_121228.jpg)
-###Spring
 
-###Summer
 
-##Fall
-[Fall](assets/Images/Colorado/20241026_123726.jpg)
+![Fall in Colorado](/assets/Images/Colorado/20241026_123726.jpg)
+
+This is one of my favorite pictures taken in fall. The colors were vibrant and the air crisp!
+
+![Winter_time](/assets/Images/Colorado/20250118_121228.jpg)
+
+This was on one of the coldest days of the season (-20°C/-4°F)
+
