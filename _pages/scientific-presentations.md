@@ -13,3 +13,5 @@ classes: wide
 sidebar:
   nav: "presentations_nav"
 ---
+
+[![Poster_MIP730](assets/Images/Poster-mip730-1.png)](/assets/Images/Poster_MIP730-1.pdf)
