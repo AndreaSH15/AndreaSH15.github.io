@@ -15,5 +15,4 @@ sidebar:
 
 ---
 
-##Handling amoebas
-[Handling FLA](assets/Images/Amoeba protocol.pdf)
+[Protocol_for_FLA_culture](/assets/Images/Amoeba protocol.pdf)
