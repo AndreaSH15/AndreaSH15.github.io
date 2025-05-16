@@ -14,4 +14,5 @@ sidebar:
   nav: "presentations_nav"
 ---
 
-[![Poster_MIP730](/assets/Images/Poster-mip730-1.png)](/assets/Images/Poster_MIP730-1.pdf)
+[[Poster_MIP730](/assets/Images/Poster-mip730-1.png)](/assets/Images/Poster_MIP730-1.pdf)
+[[Poster_WorldLeish2022](assets/Images/worldleish_tumb.png)](/assets/Images/documents/Poster-WL2022.pdf)
