@@ -37,7 +37,7 @@ feature_row3:
     btn_label: "See more"
 
 feature_row4:
-  - image_path: assets/Images/20220805_082745_mfnr.jpg # no quotes this time
+  - image_path: assets/Images/20160411_132202.jpg # no quotes this time
     alt: "Scientific presentations"
     excerpt: "Scientific presentations"
     url: "/scientific-presentations/" # note that these can also be full urls that take people to other sites
