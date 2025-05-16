@@ -15,14 +15,14 @@ sidebar:
 ---
 ## 📚 Publications
 
-- **Fernandez et al. (2024)**:[Fernandez_et_al](assets/Images/documents/OF_2024.pdf)
-- **Fernandez et al. (2024)**:[Fernandez_et_al_2](assets/Images/documents/OF_et_al.pdf)
-- **Diaz_Varela et al. (2024)**:[Diaz_Varela_et_al](assets/Images/documents/Varela_et_al.pdf)
-- **Upadhyay et al. (2018)**:[Upadhyay_et_al](assets/Images/documents/Rashmi_et_al.pdf)
-- **Long et al. (2018)**:[Long_et_al](assets/Images/documents/long_et_al.pdf)
-- **Silva et al. (2018)**:[Silva_et_al](assets/Images/documents/Silva_et_al.pdf)
-- **Sanchez_Hidalgo et al. (2017)**:[Sanchez-Hidalgo_et_al](assets/Images/documents/Sanchez_et_al.pdf)
-- **Li et al. (2017)**:[Li_et_al](assets/Images/documents/li-et-al.pdf)
+- **Fernandez et al. (2024)**:[Fernandez_et_al](/assets/Images/documents/OF_2024.pdf)
+- **Fernandez et al. (2024)**:[Fernandez_et_al_2](/assets/Images/documents/OF_et_al.pdf)
+- **Diaz_Varela et al. (2024)**:[Diaz_Varela_et_al](/assets/Images/documents/Varela_et_al.pdf)
+- **Upadhyay et al. (2018)**:[Upadhyay_et_al](/assets/Images/documents/Rashmi_et_al.pdf)
+- **Long et al. (2018)**:[Long_et_al](/assets/Images/documents/long_et_al.pdf)
+- **Silva et al. (2018)**:[Silva_et_al](/assets/Images/documents/Silva_et_al.pdf)
+- **Sanchez_Hidalgo et al. (2017)**:[Sanchez-Hidalgo_et_al](/assets/Images/documents/Sanchez_et_al.pdf)
+- **Li et al. (2017)**:[Li_et_al](/assets/Images/documents/li-et-al.pdf)
 
 ---
 
