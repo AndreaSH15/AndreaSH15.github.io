@@ -14,5 +14,12 @@ sidebar:
   nav: "presentations_nav"
 ---
 
-[![Poster_MIP730](/assets/Images/Poster-mip730-1.png)](/assets/Images/Poster_MIP730-1.pdf)
-[![Poster_WorldLeish2022](/assets/Images/worldleish_tumb.png)](/assets/Images/documents/Poster-WL2022.pdf)
+<a href="/assets/Images/Poster_MIP730-1.pdf">
+  <img src="/assets/Images/Poster-mip730-1.png" alt="Poster MIP730" width="200">
+</a>
+<p><strong>Poster: MIP730 Project</strong></p>
+
+<a href="/assets/Images/documents/Poster-WL2022.pdf">
+  <img src="/assets/Images/worldleish_tumb.png" alt="Poster WorldLeish2022" width="200">
+</a>
+<p><strong>Poster: WorldLeish 2022</strong></p>
