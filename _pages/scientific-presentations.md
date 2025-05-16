@@ -3,7 +3,7 @@ layout: single
 permalink: /scientific-presentations/
 hidden: false
 header:
-  overlay_image: /assets/images/presentations.jpg
+  overlay_image: /assets/Images/20240518_170030.jpg
 title: "Scientific Presentations"
 tagline: "Talks, posters, and slides"
 author_profile: false
