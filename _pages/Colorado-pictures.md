@@ -25,9 +25,9 @@ One of the coldest days of the season (-20°C/-4°F)
 
 ![Spring_baby](/assets/Images/Colorado/20250331_182509.jpg)
 
-Spring has many colors, but allergies are the payback
+Spring has many colors, but allergies are the payback...
 
 ![Leaving_CO](/assets/Images/Colorado/20250318_074929.jpg)
 
-Skk is cheaper in WY...LOL
+Skiing is cheaper in WY...LOL
 
